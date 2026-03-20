@@ -62,7 +62,7 @@ Implementação de interatividade em botões utilizando os eventos `onMouseEnter
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/EsmeraldoCarneiro/Aplicacao-web-de-simulado-para-estudo-de-Nocoes-de-Informatica.git
+   git clone https://github.com/EsmeraldoCarneiro/Aplicacao-web-de-simulado-para-estudo-de-Conhecimentos-Especificos.git
    ```
 
 2. Instale as dependências:
