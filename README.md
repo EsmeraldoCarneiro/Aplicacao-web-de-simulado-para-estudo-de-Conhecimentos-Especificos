@@ -60,11 +60,16 @@ Implementação de interatividade em botões utilizando os eventos `onMouseEnter
 
 ## 🏁 Como Rodar o Projeto
 
-1. Instale as dependências:
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/EsmeraldoCarneiro/Aplicacao-web-de-simulado-para-estudo-de-Nocoes-de-Informatica.git
+   ```
+
+2. Instale as dependências:
    ```bash
    npm install
    ```
-2. Inicie o servidor de desenvolvimento:
+3. Inicie o servidor de desenvolvimento:
    ```bash
    npm run dev
    ```
